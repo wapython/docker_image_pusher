@@ -5,7 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 # nvidia/cuda:12.8.0-cudnn-devel-oraclelinux8
-# qwenllm/qwenvl:2.5-cu121
+#qwenllm/qwenvl:2.5-cu121
 nvidia/cuda:12.6.2-devel-amzn2023
 nvidia/cuda:12.6.2-devel-cm2
 nvidia/cuda:12.6.2-devel-ubi8
