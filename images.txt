@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 # nvidia/cuda:12.8.0-cudnn-devel-oraclelinux8
 # qwenllm/qwenvl:2.5-cu121
-nvcr.io/nvidia/tritonserver:23.04-py3-sdk
+nvcr.io/nvidia/tritonserver:23.04-py3
