@@ -1,11 +1,3 @@
-bitnami/kafka:0.10.2.1
-bitnami/kafka:0.10.2-1-r3
-bitnami/kafka:0.11.0-0-r0
-bitnami/kafka:0.11.0-1-r0
-bitnami/kafka:0-master
-bitnami/kafka:0.11.0-1-r1
-bitnami/kafka:1.0.0-r0
-bitnami/kafka:0
 bitnami/kafka:1.0.0-r1
 bitnami/kafka:1.0.0-r2
 bitnami/kafka:1.0.0-r3
