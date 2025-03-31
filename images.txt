@@ -1,4 +1,4 @@
-mongo:3.5-jessie-ltsc2016-1709-ltsc2016-ltsc2016-1709-1709
+mongo:3.5-jessie
 mongo:3.2.17
 mongo:3.5.13
 mongo:3.5
