@@ -1,1 +1,1 @@
-qwenllm/qwenvl:qwen3vl-cu128
+ml-pipeline-viewer-crd
