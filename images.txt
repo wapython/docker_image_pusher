@@ -1,1 +1,1 @@
-ml-pipeline-viewer-crd
+nvcr.io/nvidia/tensorrt-llm/release:0.20.0rc4
