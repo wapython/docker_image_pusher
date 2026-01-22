@@ -1,1 +1,1 @@
-pointcept/pointcept:v1.6.0-pytorch2.5.0-cuda12.4-cudnn9-devel
+nvcr.io/nvidia/tensorrt:25.08-py3
