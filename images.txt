@@ -1,4 +1,3 @@
-ghcr.io/huggingface/text-embeddings-inference:cpu-arm64-latest
 ghcr.io/huggingface/text-embeddings-inference:cpu-arm64-latest-grpc
 ghcr.io/huggingface/text-embeddings-inference:121-latest
 ghcr.io/huggingface/text-embeddings-inference:121-latest-grpc
