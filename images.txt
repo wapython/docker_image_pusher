@@ -1,2 +1,1 @@
-ghcr.io/huggingface/text-embeddings-inference:121-latest
 ghcr.io/huggingface/text-embeddings-inference:121-latest-grpc
